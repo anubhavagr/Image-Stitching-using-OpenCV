@@ -1,6 +1,7 @@
 # Image-Stitching-using-OpenCV
 
-A panorama image stitcher which stitches multiple images with some overlapping area into ine single panorama image. \n
+A panorama image stitcher which stitches multiple images with some overlapping area into ine single panorama image. <br>
+
 Future Ideas:-
   Video stitching
   Optimize the program for faster exection
